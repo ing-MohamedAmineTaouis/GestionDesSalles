@@ -1,7 +1,7 @@
 # Meeting Room Management API
 
 ## Description
-Ce projet vise à créer une API pour la gestion des salles de réunion d'une PME. Cette solution est particulièrement nécessaire en raison des restrictions dues au COVID-19, rendant la gestion des salles plus complexe. Le projet est développé en Java ou Node.js et se conforme aux spécifications suivantes.
+Ce projet vise à créer une API pour la gestion des salles de réunion d'une PME. Cette solution est particulièrement nécessaire en raison des restrictions dues au COVID-19, rendant la gestion des salles plus complexe. Le projet est développé en Java et se conforme aux spécifications suivantes.
 
 ## Fonctionnalités
 - Création statique des salles réparties sur trois sites, avec quatre salles par site.
